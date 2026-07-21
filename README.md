@@ -1,4 +1,4 @@
-# ZORY AI | Visual Commerce & PropTech
+# ZORY AI | Visual Commerce for Furniture & PropTech
 
 B2B2C AI enablement layer for furniture commerce and real estate, connecting AI visualization, room planning, product discovery, and AI agents to help businesses improve engagement, conversion, and sales.
 
