@@ -57,9 +57,9 @@ From prompts or sketches to design, room redesign, furniture visualization, floo
 
 https://zory.ai/en
 
-## Headquarters 
+## Location
 
-Saudi Arabia - Riyadh
+MENA · Saudi Arabia
 
 ## Contact
 
